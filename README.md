@@ -1,4 +1,4 @@
-# C++ Bootcamp
+# Introduction to C++ Bootcamp
 
 
 ## Introduction 
