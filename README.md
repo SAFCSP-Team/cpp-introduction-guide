@@ -1,8 +1,8 @@
-# C++ Path
+# C++ Bootcamp
 
 
 ## Introduction 
-In this path, you will understand the `C++` language and its concepts, we have divided these concepts into two parts.
+In this bootcamp, you will understand the `C++` language and its concepts, we have divided these concepts into two parts.
 **OOP and basics language** part, and related concepts of `C++` language or what we will call it later on the **extra topics** part.
 
 
@@ -22,7 +22,7 @@ class Student {
 ```
 
 ### Extra Topics
-In this path, we will cover related `C++` topics that we have not covered in our High-Level Language path. 
+In this bootcamp, we will cover related `C++` topics that we have not covered in our High-Level Language path. 
 
 #### Example
 `Destructor` is a method in the class with the same name as the class but prefixed with the ~ (Tilda) symbol. It is used to clean up the memory from objects that are not in use or deleted.
